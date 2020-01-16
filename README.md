@@ -38,6 +38,8 @@ The submission files use row numbers for ID codes in order to save space on the 
 
 ## Authors
 Daihao Xue
+Yifan Leng
+Hanting Ge
 
 ## References
 - https://www.kaggle.com/c/ashrae-energy-prediction/overview
