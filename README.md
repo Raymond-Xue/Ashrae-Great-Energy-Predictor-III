@@ -35,5 +35,9 @@ The submission files use row numbers for ID codes in order to save space on the 
 - building_id - Building id code
 - meter - The meter id code
 - timestamp - Timestamps for the test data period
+
+## Authors
+Daihao Xue
+
 ## References
 - https://www.kaggle.com/c/ashrae-energy-prediction/overview
